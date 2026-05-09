@@ -28,8 +28,3 @@ An interactive Power BI dashboard developed to analyze and monitor the sales per
 <img width="506" height="328" alt="image" src="https://github.com/user-attachments/assets/ff7efbe1-a9e0-4791-8b10-9dd55f086d87" />
 
 <img width="505" height="326" alt="image" src="https://github.com/user-attachments/assets/14cdbf66-be1f-44f5-96f2-2a67600ad86c" />
-
-
-
-
-
